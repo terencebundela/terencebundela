@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terence Bundela</h1>
-<h3 align="center">I am a Front-end developer with a background in design and a focus on creating visually stunning web applications. Proficient in HTML, CSS, JavaScript, and modern front-end frameworks such as Angular and Bootstrap. I am constantly experimenting with new design trends and technologies to create unique and engaging user interfaces. Check out my Github profile to see some of my projects and contributions.</h3>
+<h3 align="center">I am a Front-end engineer with a focus on creating visually stunning web applications. I am always eager to learn new technologies and stay up-to-date with the latest web development trends. Check out my Github profile to see some of my projects and contributions.</h3>
 
 - 🔭 I’m currently working on **freelance project**
 
