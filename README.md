@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Terence Bundela</h1>
 <h3 align="center">I am a Front-end engineer with a focus on creating visually stunning web applications. I am always eager to learn new technologies and stay up-to-date with the latest web development trends. Check out my Github profile to see some of my projects and contributions.</h3>
 
-- 🔭 I’m currently working on **freelance project**
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2017.<br>📚 I'm currently learning Web Accessibility, Performance Optimization, and Advancing Angular.<br>🎯 Goals: Optimize application for maximum speed and scalability.<br>🎲 Fun fact: The term "debugging" was coined by Grace Hopper, a computer scientist and United States Navy Rear Admiral who was one of the first programmers of the Harvard Mark I computer in the 1940s.</p>
+
+###
+
+- 🔭 I’m currently working as **freelance Consultant**
 
 - 📫 How to reach me **terencebundela@gmail.com**
 
