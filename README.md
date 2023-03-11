@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terence Bundela</h1>
-<h3 align="center">I'm a Front-End Developer, from India.</h3>
+<h3 align="center">I work as a frontend developer based in Gujarat, India.</h3>
 
 <h2 align="left">About me</h2>
 
