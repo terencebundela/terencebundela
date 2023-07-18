@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017.<br>📚 I'm currently learning Web Accessibility, Performance Optimization, and Advancing Angular.<br>🎯 Goals: Optimize application for maximum speed and scalability.<br>🎲 Fun fact: The term "debugging" was coined by Grace Hopper, a computer scientist and United States Navy Rear Admiral who was one of the first programmers of the Harvard Mark I computer in the 1940s.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Web Accessibility, Performance Optimization, and Advancing Angular.<br>🎯 Goals: Optimize application for maximum speed and scalability.<br>🎲 Fun fact: The term "debugging" was coined by Grace Hopper, a computer scientist and United States Navy Rear Admiral who was one of the first programmers of the Harvard Mark I computer in the 1940s.</p>
 
 ###
 
