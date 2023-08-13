@@ -2,7 +2,7 @@
 
 Hello, world! 👋 Welcome to my GitHub profile!
 
-I am Terence Bundela, a passionate and detail-oriented software engineer pursuing my BCA degree at St. Xavier's College Ahmedabad. With a strong foundation in programming and web technologies, I'm dedicated to creating innovative and efficient software solutions.
+I am Terence Bundela, a passionate and detail-oriented software engineer. With a strong foundation in programming and web technologies, I'm dedicated to creating innovative and efficient software solutions.
 
 ## 🔧 Technologies & Tools
 
