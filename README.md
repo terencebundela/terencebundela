@@ -6,12 +6,12 @@ I am Terence Bundela, a passionate and detail-oriented software engineer. With a
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C#, JavaScript
-- **Web Technologies**: .NET (MVC, Web API, Web Forms), Angular, jQuery, AJAX
-- **Database**: SQL Server
+- **Languages**: JavaScript, TypeScript, C#
+- **Web Technologies**: Angular, React, jQuery, .NET (MVC, Web API, Web Forms), AJAX
+- **Database**: MS SQL, ADO.NET
 - **Version Control**: Git
 - **IDEs/Editors**: Visual Studio, Visual Studio Code
-- **Additional Tools**: Postman, Jira
+- **Additional Tools**: Postman, Sourcetree, Gitlab
 
 ## 🌱 Current Learning Goals
 
@@ -31,13 +31,13 @@ As an avid learner, I'm always looking to expand my skill set and stay updated w
 
 ## 📝 Blog & Portfolio
 
-Check out my [Portfolio](https://terencebundela.github.io/#/) and [Blog](your-blog-link) for detailed insights into my coding journey and tech articles.
+Check out my [Portfolio](https://terencebundela.github.io/#/) for detailed insights into my coding journey.
 
 ## 📫 Let's Connect!
 
 I'm open to collaborations, discussions, and learning from fellow developers. Feel free to connect with me on:
 
-- [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/terencebundela)
+- [LinkedIn](https://www.linkedin.com/in/terencebundela)
 
 Looking forward to coding together! 😄
 
